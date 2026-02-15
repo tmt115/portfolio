@@ -29,7 +29,7 @@ export default function Timer555() {
 
       <section className="mb-10">
         <h2 className="text-2xl font-semibold mb-3">Tools Used</h2>
-        <p className="text-gray-600">555 Timer IC, Oscilloscope, Multimeter</p>
+        <p className="text-gray-600">BJTs, Breadboards, Basic Components</p>
       </section>
 
       <section>
